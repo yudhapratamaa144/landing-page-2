@@ -1,0 +1,269 @@
+/* header */
+.header {
+    background-color: aliceblue;
+}
+
+
+.body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3FFF4;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 25px;
+}
+
+.nav-link {
+    font-size: 13px;
+}
+
+.buttons-secondary {
+    width: 70px;
+    border: none;
+    background-color: #fff;
+    color: black;
+    font-size: 14px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.home-text {
+    margin-left: 50px;
+}
+.home-text h1 {
+    font-size: 50px;
+    color: rgb(28, 28, 117);
+}
+.home-text p {
+    font-size: 12px;
+}
+
+
+/* our sevices */
+
+#our-service {
+    padding: 100px 0;
+}
+
+.ini-our-service h2 {
+    color: rgb(11, 11, 109);
+}
+
+.ini-our-service p {
+    color:rgb(15, 15, 138); 
+    font-weight: 400;
+}
+
+.card-our-services {
+    width: 100%;
+    height: 313px;
+    border-radius: 15px;
+    background-color: #fff;
+    padding: 30px;
+    box-shadow: 0 0 7px 3px rgba(0.5, 0.5 0, 0.05);
+}
+
+.card-our-services h4 {
+    font-size: 24px;
+    color: rgb(11, 11, 109)
+}
+
+.card-our-services p {
+    font-size: 14px;
+    color: rgb(15, 15, 138);
+}
+
+.img-2 {
+    border-radius: 5px;
+}
+/* akhir our service */
+
+
+/* about us 1 */
+.about-us .mw-100  {
+    border-radius: 2rem;
+}
+
+.about-us-1 h6 {
+    color: rgb(59, 59, 189);
+}
+
+.about-us-1 h2 {
+    color:rgb(11, 11, 109);
+    font-weight: 700;
+}
+
+.about-us-1 p {
+   color: rgb(15, 15, 138) ;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+/* akhir about us 2 */
+
+/* our solution */
+.our-solution h6 {
+    color: rgb(59, 59, 189);
+}
+
+.our-solution h2 {
+    color:rgb(11, 11, 109);
+    font-weight: 700;
+}
+
+.our-solution p {
+    color: rgb(15, 15, 138) ;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+.our-solution .mw-100 {
+    border-radius: 2rem;
+}
+/* akhir our solution */
+
+/* card */
+
+/* akhir card */
+.ini {
+    border-radius: 2rem;
+}
+/* about us 2 */
+.about-us-2 h6 {
+    font-weight: bold;
+    color: rgb(11, 11, 109);
+}
+
+.about-us-2 p {
+    color: rgb(15, 15, 138);
+}
+
+.ini-gambar {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: gray;
+}
+
+.icon-tweet {
+    
+}
+
+
+
+/* pricing plan */
+.ini-icon-2 {
+    width: 60px;
+    height: 60px;
+}
+
+.pricing-plan h2 {
+    color:rgb(11, 11, 109);
+    font-weight: 700;
+}
+
+.pricing-plan p {
+    color: rgb(15, 15, 138) ;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+.pricing-plan h4 {
+    color:rgb(11, 11, 109);
+    font-weight: 600;
+}
+
+.pricing-plan li {
+    color: rgb(15, 15, 138) ;
+   font-weight: 400;
+   font-size: 14px;
+}
+/* akhir pricing plan */
+
+
+/* from-our-blog */
+.from-our-blog h2 {
+    color:rgb(11, 11, 109);
+    font-weight: 700;
+}
+
+.from-our-blog p {
+    color: rgb(15, 15, 138) ;
+   font-weight: 400;
+   font-size: 14px;
+}
+
+.from-our-blog h5 {
+    color:rgb(23, 23, 128);
+}
+
+.from-our-blog img {
+    width: 350px;
+    height: 260px;
+    border-radius: 1rem;
+}
+/* akhir-from-our-blog */
+
+/* Email */
+.sign-up {
+    color: rgb(11, 11, 109);
+    font-weight: bold;
+}
+
+.form-1 {
+    background-color: #fff;
+    padding: 5px;
+    width: 90%;
+    border-radius: 1rem;
+    justify-content: start;
+}
+
+.form-2 {
+    border: none;
+    
+}
+
+
+.form-2:focus {
+    outline: none;
+}
+
+
+
+/* .row-email {
+    border-radius: 10px;
+} */
+/* akhir Email */
+
+
+/* footer */
+.footer-brand-h1 {
+    font-weight: 700;
+    font-style: italic;
+    font-size: 25px;
+    color: blue;
+}
+
+.footer-brand-p {
+    font-size: 12px;
+    color: rgb(15, 15, 138);
+}
+
+.footer {
+    color: rgb(11, 11, 109);
+}
+
+.footer-p {
+    font-size: 13px;
+    color: rgb(15, 15, 138);
+}
+
+.footer-span {
+    
+}
+/* akhir footer */
